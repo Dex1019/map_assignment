@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rove</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="enter_your_destination">Enter your destination</string>
+    <string name="car_model_details">Mahindra e20 Plus</string>
+    <string name="source_parking_location">Source parking location</string>
+    <string name="parking_details">Parking No 2,3rd B Main Rd, 22nd Cross, Sector 7, HSR Layout, 560102</string>
+    <string name="distance_label">Kilometers left</string>
+    <string name="distance_details">30 Km</string>
+    <string name="cancel_trip_text">Cancel Trip</string>
+    <string name="contact_us_text">Contact Us</string>
+</resources>
